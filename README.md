@@ -1,13 +1,25 @@
-# Sample Hardhat Project
+# fhevmjs-react-template
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a simple template to show how to use fhevmjs with Vite + React.
 
-Try running some of the following tasks:
+## Getting started
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+```bash
+npm install
 ```
+
+## Development
+
+```bash
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Documentation
+
+For more information about fhevmjs, you can [read the documentation](https://docs.zama.ai/fhevm).
